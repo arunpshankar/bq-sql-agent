@@ -1,0 +1,11 @@
+Prompt,Intent
+I'm looking to book a single room in Orlando for three nights starting October 5th.,MAKE_RESERVATION
+Can I reserve a suite in New York from December 1st to the 5th?,MAKE_RESERVATION
+I'd like to change my reservation from a double room to a suite.,MODIFY_RESERVATION
+Is it possible to cancel my booking for the weekend?,CANCEL_RESERVATION
+Do you have any available rooms with a sea view from November 20th to the 25th?,CHECK_AVAILABILITY
+I want to extend my stay by two more nights. Is that possible?,EXTEND_RESERVATION
+How much is it for a deluxe room for two nights in San Francisco?,INQUIRE_RATE
+I have a reservation under the name Smith for next week. Can you confirm that?,CONFIRM_RESERVATION
+I'm interested in any promotions or discounts for a week-long stay in December.,INQUIRE_PROMOTIONS
+Can I add an extra bed to my room reservation for the weekend?,MODIFY_RESERVATION
