@@ -1,0 +1,11 @@
+Prompt,Extracted Entities
+"I need to book a room at Hilton in London from October 5th, 2023 to October 10th, 2023.","Hotel Brand:Hilton|Location:London|Start Date:October 5th, 2023|End Date:October 10th, 2023"
+"Please find availability at Marriott in New York between November 12th, 2023 and November 16th, 2023.","Hotel Brand:Marriott|Location:New York|Start Date:November 12th, 2023|End Date:November 16th, 2023"
+"I'm planning to stay at the Hyatt in Paris from December 1st, 2023 to December 7th, 2023.","Hotel Brand:Hyatt|Location:Paris|Start Date:December 1st, 2023|End Date:December 7th, 2023"
+"Can you check rates for Sheraton in Rome for the dates July 14th, 2023 to July 20th, 2023?","Hotel Brand:Sheraton|Location:Rome|Start Date:July 14th, 2023|End Date:July 20th, 2023"
+"I am looking for rooms at the Ritz-Carlton in Tokyo from January 2nd, 2024 to January 9th, 2024.","Hotel Brand:Ritz-Carlton|Location:Tokyo|Start Date:January 2nd, 2024|End Date:January 9th, 2024"
+"Do we have any reservations in Berlin between March 15th, 2024 and March 22nd, 2024?","Location:Berlin|Start Date:March 15th, 2024|End Date:March 22nd, 2024"
+"I would like to stay in Sydney from February 1st, 2024 to February 11th, 2024.","Location:Sydney|Start Date:February 1st, 2024|End Date:February 11th, 2024"
+"Check if there are any available rooms in Los Angeles for September 30th, 2023 to October 5th, 2023.","Location:Los Angeles|Start Date:September 30th, 2023|End Date:October 5th, 2023"
+"I'd prefer to stay in Madrid from August 10th, 2023 to August 15th, 2023.","Location:Madrid|Start Date:August 10th, 2023|End Date:August 15th, 2023"
+"Can you book a hotel in Beijing for three days starting June 5th, 2023?",Location:Beijing

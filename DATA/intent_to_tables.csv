@@ -1,0 +1,7 @@
+Intent,Tables
+MAKE_RESERVATION,reservations|rooms|hotels
+CANCEL_RESERVATION,reservations
+UPDATE_RESERVATION,reservations|rooms
+GET_HOTEL_INFO,hotels
+GET_ROOM_DETAILS,rooms
+CHECK_AVAILABILITY,rooms|hotels

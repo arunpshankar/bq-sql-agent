@@ -1,0 +1,21 @@
+Hotels Table:
+Description:
+The Hotels table captures comprehensive information about various hotels that have partnered with our reservation platform. Each record in this table signifies a unique hotel entity, providing details about its name, location, and rating.
+
+Columns:
+hotel_id:
+
+Description: A unique identifier assigned to each hotel.
+Usage: This ID helps in maintaining a distinct record for each hotel and acts as a primary key. It's also used for referencing in other tables like Rooms.
+hotel_name:
+
+Description: The official name of the hotel.
+Usage: This column provides users with the name of the hotel they are booking or viewing. It aids in branding and recognition.
+location:
+
+Description: Represents the city or area where the hotel is situated.
+Usage: This field helps users in filtering hotels based on their preferred destination.
+rating:
+
+Description: Represents the average rating of the hotel, based on user reviews.
+Usage: Users often sort or filter hotels based on ratings to ensure they get the best experience. A higher rating usually indicates better customer satisfaction.
