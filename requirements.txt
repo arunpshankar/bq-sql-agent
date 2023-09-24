@@ -1,6 +1,8 @@
 pyodbc==4.0.34
-sqlalchemy==1.4.39
+sqlalchemy==1.4.22
 langchain==0.0.283
 google-cloud-aiplatform==1.33.1
-pybigquery==0.10.2
+pybigquery==0.5.0
 google-cloud-bigquery-storage==2.22.0
+google-cloud-bigquery[pandas]
+sqlalchemy-bigquery==1.7.0
