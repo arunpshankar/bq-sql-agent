@@ -1,25 +1,32 @@
+----
 Rooms Table:
 Description:
 The Rooms table stores detailed information about the different types of rooms available in each hotel. Each row stands for a unique room type in a specific hotel.
-
+----
 Columns:
+--
 room_id:
-
 Description: A unique identifier for a specific room type in a hotel.
 Usage: This ID ensures that each room type in a hotel has a unique representation. It also plays a role in making reservations.
+Type: INT64
+--
 hotel_id:
-
 Description: An identifier that references a hotel from the Hotels table.
 Usage: This foreign key establishes a link between the room and its respective hotel, ensuring that rooms are correctly mapped to hotels.
+Type: INT64
+--
 room_type:
-
 Description: Categorizes rooms based on their features and amenities, e.g., Deluxe, Suite, etc.
 Usage: Users can choose a room based on their preferences, like a suite for luxurious stays or deluxe for standard ones.
+Type: STRING
+--
 price_per_night:
-
 Description: Indicates the cost of booking the room for one night.
 Usage: Helps users in understanding the pricing and aids in budget planning.
+Type: FLOAT64
+--
 availability:
-
 Description: Specifies the number of such rooms available for booking.
 Usage: Ensures that overbooking doesn't occur and informs users about room scarcity.
+Type: INT64
+--
