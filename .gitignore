@@ -7,6 +7,10 @@ __pycache__/
 credentials
 credentials/
 
+# Venv 
+.bq_sql_agent
+.bq_sql_agent/
+
 # C extensions
 *.so
 
